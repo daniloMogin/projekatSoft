@@ -1,0 +1,5 @@
+Specifikacija projekta
+
+Proširiti OCR koji je implementiran na vežbama da ima mogućnost čitanja teksta u N redova. 
+
+Tekst može da sadrži sve znakove interpunkcije, brojeve, latinična slova, brojeve i sve vrste zagrada.
